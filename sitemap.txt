@@ -1,4 +1,6 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/utcctf_2019/
+https://captureamerica.github.io/writeups/post/xmas_htsp_ctf/
 https://captureamerica.github.io/writeups/post/watevrctf_2019/
 https://captureamerica.github.io/writeups/post/tuctf_2019/
 https://captureamerica.github.io/writeups/post/ritsec_ctf_2019/
