@@ -1,4 +1,5 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/angstromctf_2020/
 https://captureamerica.github.io/writeups/post/kntuctf_2020/
 https://captureamerica.github.io/writeups/post/sarctf_2020/
 https://captureamerica.github.io/writeups/post/neverlan_ctf_2020/
