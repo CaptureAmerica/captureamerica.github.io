@@ -1,4 +1,6 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/auctf_2020/
+https://captureamerica.github.io/writeups/post/tamuctf_2020/
 https://captureamerica.github.io/writeups/post/riftctf_2020/
 https://captureamerica.github.io/writeups/post/angstromctf_2020/
 https://captureamerica.github.io/writeups/post/kntuctf_2020/
