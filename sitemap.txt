@@ -1,5 +1,5 @@
 https://captureamerica.github.io/writeups/post/
-https://captureamerica.github.io/writeups/post/houseplantCTF_2020/
+https://captureamerica.github.io/writeups/post/houseplantctf_2020/
 https://captureamerica.github.io/writeups/post/umdctf_2020/
 https://captureamerica.github.io/writeups/post/auctf_2020/
 https://captureamerica.github.io/writeups/post/tamuctf_2020/
