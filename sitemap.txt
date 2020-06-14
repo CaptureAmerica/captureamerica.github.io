@@ -1,4 +1,6 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/nahamcon_ctf_2020/
+https://captureamerica.github.io/writeups/post/ractf_2020/
 https://captureamerica.github.io/writeups/post/houseplantctf_2020/
 https://captureamerica.github.io/writeups/post/umdctf_2020/
 https://captureamerica.github.io/writeups/post/auctf_2020/
