@@ -1,4 +1,5 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/hackers_playground_2020/
 https://captureamerica.github.io/writeups/post/cybrics_ctf_2020/
 https://captureamerica.github.io/writeups/post/csictf_2020/
 https://captureamerica.github.io/writeups/post/rgb_ctf_2020/
