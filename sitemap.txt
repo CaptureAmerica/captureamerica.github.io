@@ -1,4 +1,5 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/tamuctf_2021/
 https://captureamerica.github.io/writeups/post/umdctf_2021/
 https://captureamerica.github.io/writeups/post/ritsec_ctf_2021/
 https://captureamerica.github.io/writeups/post/angstromctf_2021/
