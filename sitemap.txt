@@ -1,4 +1,5 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/pbjar_ctf_2021/
 https://captureamerica.github.io/writeups/post/grabcon_ctf_2021/
 https://captureamerica.github.io/writeups/post/rcts_cert_ctf_2021/
 https://captureamerica.github.io/writeups/post/cybrics_ctf_2021/
