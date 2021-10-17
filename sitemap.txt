@@ -1,4 +1,7 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/deadface_ctf_2021/
+https://captureamerica.github.io/writeups/post/digitaloverdose_ractf_2021/
+https://captureamerica.github.io/writeups/post/deconstruct_ctf_2021/
 https://captureamerica.github.io/writeups/post/downunder_ctf_2021/
 https://captureamerica.github.io/writeups/post/pbjar_ctf_2021/
 https://captureamerica.github.io/writeups/post/grabcon_ctf_2021/
