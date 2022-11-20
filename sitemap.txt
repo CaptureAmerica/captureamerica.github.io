@@ -1,4 +1,5 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/squarectf_2022/
 https://captureamerica.github.io/writeups/post/bcactf_2022/
 https://captureamerica.github.io/writeups/post/picoctf_2022/
 https://captureamerica.github.io/writeups/post/kringlecon_2021/
