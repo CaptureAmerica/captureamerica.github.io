@@ -1,4 +1,8 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/gdgalgiers_ctf_2022/
+https://captureamerica.github.io/writeups/post/irisctf_2023/
+https://captureamerica.github.io/writeups/post/kringlecon_2022/
+https://captureamerica.github.io/writeups/post/digitaloverdose_ractf_2022/
 https://captureamerica.github.io/writeups/post/squarectf_2022/
 https://captureamerica.github.io/writeups/post/bcactf_2022/
 https://captureamerica.github.io/writeups/post/picoctf_2022/
