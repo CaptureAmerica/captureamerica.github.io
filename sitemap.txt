@@ -1,4 +1,7 @@
 https://captureamerica.github.io/writeups/post/
+https://captureamerica.github.io/writeups/post/umdctf_2023/
+https://captureamerica.github.io/writeups/post/tamuctf_2023/
+https://captureamerica.github.io/writeups/post/angstromctf_2023/
 https://captureamerica.github.io/writeups/post/spaceheroes_ctf_2023/
 https://captureamerica.github.io/writeups/post/texsaw_ctf_2023/
 https://captureamerica.github.io/writeups/post/bucket_ctf_2023/
